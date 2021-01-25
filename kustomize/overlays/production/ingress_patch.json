@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/spec/rules/0/host",
+    "value": "devops-toolkit.40.88.227.95.xip.io"
+  }
+]

@@ -9,7 +9,7 @@ spec:
   project: production
   source:
     path: kustomize/overlays/production
-    repoURL: https://github.com/vfarcic/devops-toolkit.git
+    repoURL: https://github.com/devopsparadox/devops-toolkit.git
     targetRevision: HEAD
   destination:
     server: https://kubernetes.default.svc
